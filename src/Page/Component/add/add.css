@@ -1,0 +1,27 @@
+.add-container{
+    margin-left: 0.5rem;
+    border: 1px solid rgb(111, 111, 111);
+    padding: 0.5rem 0.5rem 0 0.5rem;
+    border-radius: 0.5rem;
+    background-color: rgb(56, 54, 54);
+}
+.add-title{
+    color: chartreuse;
+}
+.bt{
+    color: white;
+}
+.add-display{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0.5rem;
+    justify-content: space-between;
+}
+.add-variables{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+    justify-content: space-between;
+    margin: 1rem;
+}
+

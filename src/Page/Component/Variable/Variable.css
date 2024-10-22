@@ -1,0 +1,25 @@
+.variable-container{
+    border: 1px solid rgb(111, 111, 111);
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+    background-color: rgb(84, 84, 84);
+
+}
+
+.variable-title{
+    color: chartreuse;
+}
+
+.variable-button{
+    border: 1px solid rgb(146, 146, 146);
+    border-radius: 0.5rem;
+}
+
+.variable-value{
+    font-size: x-large;
+    color: white;
+    margin: 0 1rem 1rem;
+    padding: 0.25rem 0.5rem;
+    border: 1px solid rgb(65, 177, 57);
+    border-radius: 0.5rem;
+}

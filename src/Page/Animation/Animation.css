@@ -1,0 +1,45 @@
+#container{
+    border: 1px solid black;
+    width: fit-content;
+    margin: 10px auto;
+    border-radius: 5px;
+
+}
+
+#field{
+    border: 1px solid green;
+    border-radius: 5px;
+    margin: 10px;
+    width: 900px;
+    height: 500px;
+    background-image: url("./field1.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+#ball{
+    /*fixed*/
+    border: 1px solid blue;
+    border-radius: 50%;
+    background-color: rgb(76, 189, 189); 
+    position: relative;
+    background-size: cover;
+    transform: rotate(10deg);
+
+    /*variable*/
+    width: 150px;
+    height: 150px;
+    background-image: url("");
+    
+    /* top: calc(200px - 50px - 2px);
+    left: calc(300px - 50px - 2px); */
+}
+
+#control{
+    /* border: 1px solid red; */
+    margin: 0.5rem;
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    gap: 0.75rem;
+}

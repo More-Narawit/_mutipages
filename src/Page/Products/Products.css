@@ -1,0 +1,19 @@
+.products-items-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2rem;
+    justify-content: space-between;
+    overflow-y: auto;
+    height: 700px;
+    align-items: start;
+}
+.price{
+    position: absolute;
+    bottom: 1.5rem;
+    right: 1rem;
+}
+.add-button{
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+}

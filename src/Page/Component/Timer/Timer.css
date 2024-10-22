@@ -1,0 +1,38 @@
+.timer-container{
+    margin-top: 1rem;
+    border: 1px solid rgb(111, 111, 111);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: rgb(56, 54, 54);
+}
+.timer-title{
+    color: chartreuse;
+}
+
+.timer-display{
+    border: 1px solid rgb(65, 177, 57);
+    border-radius: 0.5rem;
+    text-align: right;
+    font-size: x-large;
+    padding: 0.25rem 0.5rem;
+    font-weight: bold;
+    width: 14rem;
+}
+.timer-buttons{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: space-between;
+}
+
+.btn-g{
+    background-color: rgb(65, 177, 57);
+}
+
+.btn-y{
+    background-color: rgb(255, 243, 9);
+    color: #000;
+}
+
+.btn-r{
+    background-color: rgb(192, 51, 51);
+}
