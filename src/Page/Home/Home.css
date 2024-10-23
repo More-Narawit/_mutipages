@@ -14,6 +14,7 @@
     padding: 0.5rem 0.5rem 0 0.5rem;
     border-radius: 0.5rem;
     background-image: url('./human.jpg');
+    background-size: cover;
     width: 200px;
     height: 200px;
 }
