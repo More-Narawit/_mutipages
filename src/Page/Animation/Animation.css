@@ -6,7 +6,7 @@
 
 }
 
-#field{
+.field{
     border: 1px solid green;
     border-radius: 5px;
     margin: 10px;

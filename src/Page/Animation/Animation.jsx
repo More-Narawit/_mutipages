@@ -98,7 +98,7 @@ const Animation = () => {
 
     return (
         <div id="container">
-            <div id="field">
+            <div className="field">
                 <div id="ball" style={renderBall()}></div>
             </div>
 
