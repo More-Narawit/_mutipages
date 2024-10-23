@@ -18,6 +18,11 @@
     width: 200px;
     height: 200px;
 }
+.logo{
+    width: 200px;
+    height: 200px;
+    background-image: url('./myself.jpg');
+}
 .text-container{
     margin-top: 1rem;
     text-align: left;
