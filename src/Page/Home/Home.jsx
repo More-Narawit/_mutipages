@@ -6,7 +6,6 @@ function Home() {
             <h1>Introduce yourself</h1>
             <div className='introduce-container'>
                 <div className='img-container'>
-                    <img className='img' src="./human.jpg" alt="" />
                 </div>
                 <div className='text-container'>
                     <h2><u>I am More</u></h2>
