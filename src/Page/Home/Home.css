@@ -13,9 +13,8 @@
     border: 12px solid rgb(111, 111, 111);
     padding: 0.5rem 0.5rem 0 0.5rem;
     border-radius: 0.5rem;
-    background-image: url('./myself.jpg');
     background-color: rgb(56, 54, 54);
-    background-size: 100%;
+    background-size: cover;
     width: 200px;
     height: 200px;
 }

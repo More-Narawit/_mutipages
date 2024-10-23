@@ -1,5 +1,5 @@
 
-
+import  myself  from './myself.jpg'
 import './Home.css'
 function Home() {
     return (
@@ -7,6 +7,7 @@ function Home() {
             <h1>Introduce yourself</h1>
             <div className='introduce-container'>
                 <div className='img-container'>
+                    <img src={myself} alt="myself" />
                 </div>
                 <div className='text-container'>
                     <h2><u>I am More</u></h2>
